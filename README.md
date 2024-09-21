@@ -1,4 +1,4 @@
-# 🎀HHU-ALL-IN-ONE
+# 💧HHU-ALL-IN-ONE
 
 **河海大学所有平台API**
 
